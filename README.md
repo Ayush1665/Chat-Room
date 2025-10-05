@@ -1,6 +1,6 @@
 # Chat Room
 
-A real-time chat application built with **React** and **Node.js**, featuring multiple chat rooms, user authentication, and live messaging.
+A real-time chat application built with **React** and **Node.js**, featuring multiple chat rooms and live messaging.
 
 ---
 
@@ -9,14 +9,13 @@ A real-time chat application built with **React** and **Node.js**, featuring mul
 - Real-time messaging between users
 - Multiple chat rooms
 - Responsive design
-- Easy to extend with new features
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind Css
-- **Backend:** Node.js, Express
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js
 - **Real-time Communication:** Socket.IO
 
 ---
